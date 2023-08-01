@@ -34,3 +34,9 @@ Puedes añadir también un pagina como Blog relacionado con el desarrollo web.
 ## Modalidades pedagógicas
 - El ejercicio es individual.
 - Realizar el ejercicio en 2 semanas de vacaciones 7-20 de agosto.
+
+## Entregables
+- Enlace del despliegue del API y del Frontend.
+- Enlace del repositorio de Backend y del Frontend.
+
+***Recuerda: estas mostrando lo mejor de tí para conseguir trabajo.***
